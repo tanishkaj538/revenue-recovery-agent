@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+data/failed_payments.csv
+data/audit_trail.csv
+.env
