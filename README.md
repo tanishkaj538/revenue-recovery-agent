@@ -1,4 +1,4 @@
-# 💳 AI Revenue Recovery Agent
+# 💳 RecoverAI — AI-Powered Recurring Payment Recovery Agent
 
 **Razorpay AI Buildathon — Track 1**
 
