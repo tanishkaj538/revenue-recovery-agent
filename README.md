@@ -1,6 +1,6 @@
 # 💳 RecoverAI — AI-Powered Recurring Payment Recovery Agent
 
-**Razorpay AI Buildathon — Track 1**
+**Razorpay AI Buildathon — Track 1: AI Revenue Recovery**
 
 An agent that detects failed recurring payments (subscriptions/UPI mandates), diagnoses the root cause, executes a bounded recovery workflow, and reports measured revenue recovered.
 
